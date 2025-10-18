@@ -6,7 +6,7 @@
 <h1>PARALLEL REDUCTION USING UNROLLING TECHNIQUES</h3>
 Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16, in which each thread handles 16 data blocks. Compare kernel performance with reduceUnrolling8 and use the proper metrics and events with nvprof to explain any difference in performance.
 
-## AIM:
+## AIM: 
 To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using nvprof.
 
 ## EQUIPMENTS REQUIRED:
